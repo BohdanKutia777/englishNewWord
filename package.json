@@ -1,0 +1,23 @@
+{
+  "name": "englishnewword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -watch styles/scss -o styles/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanKutia777/englishNewWord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohdanKutia777/englishNewWord/issues"
+  },
+  "homepage": "https://github.com/BohdanKutia777/englishNewWord#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
